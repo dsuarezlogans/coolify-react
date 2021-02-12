@@ -27,7 +27,7 @@
   "homepage": "https://github.com/dsuarezlogans/coolify-react#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-env": "^7.12.16",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "eslint": "^5.16.0",
